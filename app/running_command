@@ -1,0 +1,5 @@
+sudo docker run --rm -v /home/cils0004/HW1:/home/ubuntu/content -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=$DISPLAY -e GDK_SCALE -e GDK_DPI_SCALE -v /dev/snd:/dev/snd --privileged=true -it jeff/hw1
+Hostip="$ip -4 -o a | grep docker0 |awk '{print $4}' |cut -d/ -f1)"
+
+usb-046d_0825_19EAED40-02
+
