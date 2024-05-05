@@ -19,6 +19,10 @@
 ## Docker
 
 ## Python UI
+<p align="center">
+  <img height="300" alt="train para" src="https://github.com/Lowen0909/Music-Genre-Recognition/assets/82707190/9aec4ccc-a9d7-4032-85cd-3a6842024948">
+  <img height="300" alt="train para" src="https://github.com/Lowen0909/Music-Genre-Recognition/assets/82707190/89feb7a3-c799-4681-9a88-5d8a5cb66f66">
+</p>
 <p align="center">4x speed demo</p>
 <p align="center">
   <img height="300" alt="train para" src="https://github.com/Lowen0909/Music-Genre-Recognition/assets/82707190/e4e9b9c2-8e3b-4639-86b4-1b73d3d36419">
